@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<head _tracker='{"pagetype":"index","city":"nj","line":"c2c","platform":"web","ca_city":"hz"}'>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="renderer" content="webkit">
+<title>【南京二手车_南京二手车交易市场】-瓜子二手车直卖网</title>
+<meta name="description" content="瓜子南京二手车,直面个人买家,好车卖出好价,瓜子二手车均经过259项检测,标准无事故,优质个人二手车,14天可退1年质保,个人二手车买卖首选瓜子二手车直卖网!" />
+
+    <meta http-equiv="P3P" content='CP="CAO PSA OUR"' />
+    <meta name="baidu-site-verification" content="3r3nh4dkLA" />
+    <meta name="360-site-verification" content="f045c917619b6b3dc82ad5f699a09474" />
+    <meta name="google-site-verification" content="FQph3WEY6ZqNqVXCB5PT4_u8f-WjfF14l2OOdFiOEmg" />
+    <meta http-equiv="Cache-Control" content="no-transform " />
+    <meta name="sogou_site_verification" content="qY406sTreO"/>
+    <meta name="shenma-site-verification" content="7b096264bff0cf1031a570c37abed00c_1476775946">
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.guazi.com/favicon.ico" media="screen" />
+</head>
+<script>
+    var logged = false;
+    var host = 'www.guazi.com';
+    window.userPhone = '';
+    window.phone400 = '400-060-8052';
+</script>
+<script>
+    //var brandInfo = //;
+    //var cityInfo  = //;
+    //var hotBrandInfo = //;
+    var ipcityName = "\u5357\u4eac";
+    var ipcityId = "65";
+            var financePopShow = true;
+        var popupHidden = false;
+    var video = "\/\/image.guazistatic.com\/pc_index_adv_2.mp4";
+    var freeSell = '';
+    window.ipLocation = {"city":{"id":"65","name":"\u5357\u4eac"},"province":{"id":"10","name":"\u6c5f\u82cf"}};
+    var financeUrl = 'https://jr.guazi.com/nj/web_v3/pcindex/?jr_from=web_index_tc&platform=web';
+    var financePopImg = 'https://image1.guazistatic.com/qn18122420031682f658ce4f16f2b41023dfecf4cd5f7d.png?imageView2/2';
+    var financePopEventId = '92834632';
+    var cityDomain = 'nj';
+</script>
+<!-- 加载js/css-->
+<script type="text/javascript" src="//cli-sta.guazistatic.com/c2c_web/base.6fe56c7c8e45d3ef95b9.js"></script><script type="text/javascript" src="//cli-sta.guazistatic.com/c2c_web/index_v4.e00f759fea1881364918.js"></script>
+<body>
+<div class="top-header">
+    <div class="header header-2">
+        <h1>
+            <a href="/bj/" title="瓜子二手车">瓜子二手车</a>
+        </h1>
+
+        <div class="city city-padding-bottom">
+            <!-- 鼠标悬停 .city添加class名active -->
+            <p class="city-curr city-curr-padding-bottom">
+                南京<i></i>
+            </p>
+        </div>
+
+        <div class="uc js-uc js-uc-new" data-gzlog="tracking_type=click&amp;eventid=1015123400000003">
+            <a href="javascript:" class="uc-my" id="js-login">登录</a>
+            <div class="uc-app" style=display:none>
+                <a href="/bj/userstore" class="js-loginElem1" data-gzlog="tracking_type=click&amp;eventid=1015123400000004">收藏车辆</a>
+                <a href="/bj/userreduce" class="js-loginElem2" data-gzlog="tracking_type=click&amp;eventid=1015123400000005">降价提醒</a>
+                <a href="/bj/userhistory" class="js-loginElem3" data-gzlog="tracking_type=click&amp;eventid=1015123400000006">浏览记录</a>
+                <a href="javascript:;" class="js-logout js-loginElem4" data-gzlog="tracking_type=click&amp;eventid=1015123400000007">退出</a>
+                <i></i>
+            </div>
+        </div>
+
+        <div class="header-phone">
+            <!--电话判断，当页面处于汽车金融则显示汽车金融电话  -->
+            热线电话  400-060-8052 </div>
+                <div class="nav-list">
+            <a class="fl "
+               href="https://www.maodou.com?ca_s=xcsop_guazipc&ca_n=topbar"  data-gzlog="tracking_type=click&eventid=1015083000000001" title="毛豆新车" target="_blank" >毛豆新车</a>
+            <a class="fr" baidu_alog="pc_index_top_tab&click&pc_index_top_tab_carfina_c"
+               href="https://jr.guazi.com/nj/?jr_from=web_loanindex&platform=web"  data-gzlog="tracking_type=click&eventid=0010000000000011">瓜子金融</a>
+            <a class="fl" baidu_alog="pc_index_top_tab&click&pc_index_top_tab_intro_c"
+               href="/nj/intro/" data-gzlog="tracking_type=click&eventid=0010000000000010">瓜子服务
+           </a>
+            <a class="fl" baidu_alog="pc_index_top_tab&click&pc_index_top_tab_sell_c"
+               href="/nj/sell/?clueS=01" data-gzlog="tracking_type=click&eventid=0010050000000009">我要卖车</a>
+            <a class="fl" baidu_alog="pc_index_top_tab&click&pc_index_top_tab_buy_c"
+               href="/nj/buy/"  data-gzlog="tracking_type=click&eventid=0010000000000008">我要买车</a>
+            <a class="fl active" baidu_alog="pc_index_top_tab&click&pc_index_top_tab_index_c"
+               href="/nj/"  data-gzlog="tracking_type=click&eventid=0010000000000007">首页</a>
+        </div>
+    </div>
+</div>
+
